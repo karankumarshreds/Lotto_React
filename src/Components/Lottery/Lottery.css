@@ -1,0 +1,26 @@
+.Lottery {
+    background-color: rgb(241, 177, 253);
+    width: 85%;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 3rem;
+    border-radius: 10px;
+    box-shadow: 9px 11px 8px -5px rgba(0, 0, 0, 0.285);
+}
+
+button {
+    background-color: palevioletred;
+    color: white;
+    font-size: 20px;
+    border-radius: 1rem;
+    padding: 10px;
+    box-shadow: 9px 11px 8px -5px rgba(0, 0, 0, 0.285);
+    cursor: pointer;
+    outline: none;
+    margin-top: 1em;
+}
+
+button:hover {
+    background-color: rgb(229, 149, 176);
+}
+
